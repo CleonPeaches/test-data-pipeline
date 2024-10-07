@@ -1,7 +1,7 @@
 {
   "functions": [
     {
-      "source": "test-data-pipeline",
+      "source": "functions",
       "codebase": "default",
       "ignore": [
         "venv",
